@@ -31,7 +31,4 @@ A repo to store some papers/blogs/stuff I read and used when I was "doing a rese
   - [Aircraft Propulsion and Gas Turbine Engines, Second Edition](https://www.amazon.com/Aircraft-Propulsion-Gas-Turbine-Engines/dp/1466595167)
   - [Aircraft Propulsion, Second Edition](https://www.amazon.com/Aircraft-Propulsion-Saeed-Farokhi/dp/1118806778)
   - [Hypersonic and High-Temperature Gas Dynamics, Third Edition](https://www.amazon.com/Hypersonic-High-Temperature-Dynamics-Aiaa-Education/dp/1624105149)
-  - A lot of papers from [Antonella Ingenito](https://www.researchgate.net/profile/Antonella-Ingenito) and [Johan Steelant](https://www.researchgate.net/profile/Johan-Steelant), among declassified papers from DARPA and NASA, among others
-
-
-
+  - A lot of papers from [Antonella Ingenito](https://www.researchgate.net/profile/Antonella-Ingenito) and [Johan Steelant](https://www.researchgate.net/profile/Johan-Steelant), among declassified papers from DARPA, NASA and many others
