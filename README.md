@@ -1,5 +1,5 @@
 # Mind
-A repo to store some papers/blogs/stuff I read and used when I was "doing a research" on the Windows kernel. The other ones are from a lil thing I wanna build, IDK... just focus on the windows part
+A repo to store some papers/blogs/stuff I read and some things I used when I was "doing a research" on the Windows 10 kernel. The other ones are from a lil thing I wanna build, IDK... just focus on the windows part
 
 - Windows
   - The [docs](./docs/README.md) folder
